@@ -1,0 +1,8 @@
+1- pwd: Shows the path of current directory you are in. eg: /mnt/c/Users/it/Documents/Code/Lab_01
+2- ls: Shows the names of files present in the current directory. eg: Lab_01_q1.txt  Lab_01_q2.c
+3- cd: It goes to the directory that is written after cd.
+4- cp: copies a file into same folder or different folder.
+5- mkdir & rmdir: mkdir crates a folder and rmdir deletes it.
+6- man: See the manual of a command.
+7- sudo: Run the given command in Admin mode.
+8- apt-get: Used for package management. For example to use gcc in WSL i used the command: sudo apt-get update
