@@ -1,0 +1,1 @@
+This is a test. Pipes are interesting. Inter-process communication is essential.

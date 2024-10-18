@@ -1,0 +1,2 @@
+Longest sentence:  Inter-process communication is essential
+Word with the most vowels: communication
