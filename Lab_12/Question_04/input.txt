@@ -1,0 +1,4 @@
+Hello, world! This is a test file to check the word search functionality.
+Hello, how are you? I hope you're enjoying the test.
+We are testing the word "hello" multiple times to ensure it counts correctly.
+hello HELLO hello.
